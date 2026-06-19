@@ -4,4 +4,7 @@ function entrarNoCurso(){
 function sairdoCurso(){
     console.log('Saiu do curso');
 }
+function escolhercurso(){
+    console.log('Escolheu curso');
+}
 
